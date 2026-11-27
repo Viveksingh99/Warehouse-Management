@@ -6,9 +6,9 @@ Full-stack 5×5 Warehouse Management System built with **React 19 + TypeScript +
 - **AI Workflow & Verification**: [AI_USAGE.md](./AI_USAGE.md)
 - **API Setup & Endpoints**: See [warehouse-api README](https://github.com/Viveksingh99/warehouse-api#readme) in the companion API repository (`https://github.com/Viveksingh99/warehouse-api`).
 - **Hosted Demo**:
-  - Hosted UI URL: `<HOSTED_UI_URL>` (replace after deploying)
-  - Hosted API URL: `<HOSTED_API_URL>` (replace after deploying)
-  - Browser Login URL: `<HOSTED_UI_URL>/login`
+  - Hosted UI URL: https://warehouse-management-wheat.vercel.app
+  - Hosted API URL: https://warehouse-api-9lxa.onrender.com
+  - Browser Login URL: https://warehouse-management-wheat.vercel.app/login
 
 ---
 
