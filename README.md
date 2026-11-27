@@ -4,7 +4,7 @@ Full-stack 5×5 Warehouse Management System built with **React 19 + TypeScript +
 
 - **Architecture & Design**: [DESIGN.md](./DESIGN.md)
 - **AI Workflow & Verification**: [AI_USAGE.md](./AI_USAGE.md)
-- **API Setup & Endpoints**: See `warehouse-api/README.md` in the companion API repository (`<API_REPO_URL>` — replace placeholder after publishing).
+- **API Setup & Endpoints**: See [warehouse-api README](https://github.com/Viveksingh99/warehouse-api#readme) in the companion API repository (`https://github.com/Viveksingh99/warehouse-api`).
 - **Hosted Demo**:
   - Hosted UI URL: `<HOSTED_UI_URL>` (replace after deploying)
   - Hosted API URL: `<HOSTED_API_URL>` (replace after deploying)
